@@ -8,3 +8,12 @@ Clone the repo:
 
 Add a symlink to the vimrc file inside (In order to keep your real and updated file in the repo. Otherwise you'll need to copy and paste every time you modify something, etc):
 `ln -s ~/.vim/vimrc ~/.vimrc`
+
+Now create the matchet for the Ctrl+P plugin. Go to .vim/bin/matcher and do `make`
+
+Last step is to install plugins in vim: `:PluginInstall!`
+
+And here starts the adventure!
+
+
+
