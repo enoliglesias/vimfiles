@@ -11,7 +11,7 @@ Add a symlink to the vimrc file inside (In order to keep your real and updated f
 
 Now create the matcher for the Ctrl+P plugin. Go to .vim/bin/matcher and do `make`
 
-Clone Vundle to your .vim folder. See instructions here: `https://github.com/gmarik/Vundle.vim`
+Clone Vundle to your .vim folder. See instructions here: https://github.com/gmarik/Vundle.vim
 
 Last step is to install plugins in vim: `:PluginInstall!`
 
